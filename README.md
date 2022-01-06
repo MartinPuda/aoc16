@@ -4,9 +4,13 @@ Advent of Code 2016 in Clojure.
 
 - Day 01 ⭐⭐
 
+- Day 02 ⭐
+
+
 ## Todo
 
 - Day 01 refactor
+- Day 02 part 2
 
 ## Usage
 
