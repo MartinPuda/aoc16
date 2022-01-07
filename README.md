@@ -6,6 +6,8 @@ Advent of Code 2016 in Clojure.
 
 - Day 02 ⭐
 
+- Day 03 ⭐⭐
+
 
 ## Todo
 
